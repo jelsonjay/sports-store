@@ -1,4 +1,3 @@
-
 // set variable
 const cartBtn = document.querySelector(".cart-btn");
 const closeCartBtn = document.querySelector(".close-cart");
@@ -21,9 +20,9 @@ class Products {
   async getProducts() {
     try {
       //CONTENTFUL DATA
-      // let contentful = await client.getEntries({
-      //   content_type: "shopOnline"
-      // });
+/*       let contentful = await client.getEntries({
+        content_type: "shopOnline"
+       }); */
 
       //LOCAL DATA
       let result = await fetch("products.json");
