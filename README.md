@@ -1,6 +1,6 @@
 # Sports Store
 
-Min project shopping cart sports store created using html5, css3, vanilla  javascript & es6
+this is a simple project shopping cart sports store created using html5, css3, vanilla  javascript & es6
 
 
 [Access My Project](https://jelsonjay.github.io/sports-store/)
